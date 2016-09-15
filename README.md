@@ -1,2 +1,3 @@
 # hello-world
-testing repository
+
+Hello friends. Learning to program is super fun.  You should join me.
